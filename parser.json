@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-cairo",
-  "semver": false,
   "parser_version": "6238f609bea233040fe927858156dee5515a0745",
-  "lang": "cairo"
+  "lang": "cairo",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-cairo",
+  "semver": false
 }
